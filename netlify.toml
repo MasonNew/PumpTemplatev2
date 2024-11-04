@@ -1,0 +1,5 @@
+[build]
+  # No build command needed for a simple HTML site
+  command = ""
+  # The publish directory is the root directory where your index.html is located
+  publish = "."
